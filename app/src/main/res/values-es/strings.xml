@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primera Aplicación Dio</string>
+    <string name="ola_mundo">¡Hola mundo!</string>
+    <string name="meu_nome_felipe">Mi nombre es Felipe</string>
+    <string name="esse_meu_primeiro_app">¡Esta es Mi Primera Aplicación!</string>
+</resources>
